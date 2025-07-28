@@ -105,8 +105,8 @@ export const products: Product[] = [
     nutritionHighlights: ["High Fiber", "Low GI", "Mineral Rich"]
   },
   {
-    id: "singhare-atta-500g",
-    name: "H.H. Laxmi Singhare Atta",
+    id: "singhara-atta-500g",
+    name: "H.H. Laxmi Singhara Atta",
     description: "Water chestnut flour, perfect for fasting and special occasion cooking",
     price: 140,
     originalPrice: 180,
@@ -162,7 +162,7 @@ export const products: Product[] = [
   {
     id: "kodari-500g",
     name: "H.H. Laxmi Kodari", 
-    description: "Finger millet flour packed with calcium and nutrients for strength and health",
+    description: "Finger millet packed with calcium and nutrients for strength and health",
     price: 85,
     originalPrice: 110,
     weight: "500 g",
